@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulir Nama</title>
+    <title>Formulir Nama anda</title>
 </head>
 <body>
     <h2>Masukkan Data Anda</h2>
