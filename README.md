@@ -3,4 +3,4 @@
 Just for excercising
 
 this is the new way
-the way of fire will consume you
+This is the truth
